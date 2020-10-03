@@ -1,0 +1,66 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #fff
+}
+.iphonexxs11pro1row0 {
+  display: flex;
+  margin-left: 9.333333333333334vw;
+  margin-top: 14.133333333333333vw;
+  width: 58.666666666666664vw
+}
+.iphonexxs11pro1row0col0 {
+  display: flex;
+  margin-left: 0;
+  width: 26.666666666666668vw;
+  height: 26.666666666666668vw;
+  flex-direction: column
+}
+.style1 {
+  display: grid;
+  width: 58.666666666666664vw;
+  grid-gap: 5.333333333333333vw
+}
+.style2,
+.style3 {
+  background-color: #00ff19;
+  border-left: .26666666666666666vw solid red;
+  border-right: .26666666666666666vw solid red;
+  border-top: .26666666666666666vw solid red;
+  border-bottom: .26666666666666666vw solid red;
+  width: 26.666666666666668vw;
+  height: 26.666666666666668vw;
+  z-index: 1
+}
+.style3 {
+  margin-left: 5.333333333333333vw;
+  z-index: 2
+}
+.iphonexxs11pro1row1 {
+  display: flex;
+  margin-left: 9.333333333333334vw;
+  margin-top: 5.333333333333333vw;
+  width: 58.666666666666664vw
+}
+.style4,
+.style5 {
+  background-color: #00ff19;
+  border-left: .26666666666666666vw solid red;
+  border-right: .26666666666666666vw solid red;
+  border-top: .26666666666666666vw solid red;
+  border-bottom: .26666666666666666vw solid red;
+  width: 26.666666666666668vw;
+  height: 26.666666666666668vw
+}
+.style4 {
+  margin-left: 0;
+  z-index: 3
+}
+.style5 {
+  margin-left: 5.333333333333333vw;
+  z-index: 4
+}
+.breakpoint-0 {
+  display: block
+}
